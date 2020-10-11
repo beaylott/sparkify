@@ -29,6 +29,7 @@ It was found that the RandomForestClassifier was consistently marginally better 
 ## References
 
 Blog post: https://medium.com/@beaylott/churn-prediction-for-the-sparkify-data-set-38f058e1271a
+
 PySpark documentation: https://spark.apache.org/docs/latest/
 
 ## Files
